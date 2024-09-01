@@ -1,4 +1,4 @@
 # how-to-design-and-make-pcbs
-Notes about circuit design in Fusion 360 Electronics (formerly Eagle).  
+Notes about PCB design and manufacturing.  
 
 See the [wiki](https://github.com/EricApgar/EagleNotes/wiki) for all notes.
